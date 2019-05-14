@@ -4,6 +4,7 @@ Utilizado as seguintes tecnologias:
 - CSS
 - JavaScript
 - Bootstrap 3
+- jQuery 3.4.1
 
 Disponivel em: https://andrelsa.github.io/calculadora-imc/
 
