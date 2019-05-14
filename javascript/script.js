@@ -10,7 +10,7 @@ function calcula_imc() {
         error_field.innerHTML = "<h4>Preencha os campos</h4>"
         return false;
     }
-    console.log(imc)
+
     if (imc < 18.5) {
         alert("Você está abaixo do peso. Indice de massa corporal:  " + imc.toFixed(2));
     } else if (imc >= 18.5 && imc < 24.9) {
