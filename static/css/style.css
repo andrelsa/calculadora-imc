@@ -29,6 +29,10 @@ body {
     border-radius: 50%;
 }
 
+input:valid {
+    border-color: green !important;
+}
+
 .form-group input {
     height: 42px;
     font-size: 18px;
